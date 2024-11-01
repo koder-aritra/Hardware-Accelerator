@@ -31,7 +31,7 @@ This project presents the design and implementation of an AI accelerator optimiz
 - Software implementation for interrupt handling
 - Testing and validation scripts
 
-![image](https://github.com/aryanpandeyece22/Hardware-Accelerator-in-veriilog-using-systolic-arrays/assets/167033652/55677568-ed14-4ce0-a556-daac96560125)
+![image](https://github.com/koder-aritra/Hardware-Accelerator/blob/main/sc1.png)
 
 
 
