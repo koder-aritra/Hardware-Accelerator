@@ -36,5 +36,5 @@ This project presents the design and implementation of an AI accelerator optimiz
 
 
 
-![Screenshot 2024-04-09 062917](https://github.com/aryanpandeyece22/Hardware-Accelerator-in-veriilog-using-systolic-arrays/assets/167033652/bb56e450-b477-4a1e-9c56-0d316f102afb)
+![Screenshot 2024-04-09 062917](https://github.com/koder-aritra/Hardware-Accelerator/blob/main/s1.png)
 
